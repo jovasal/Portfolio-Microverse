@@ -101,7 +101,9 @@ body {
   width: 375px;
   height: 700px;
   margin: 0 auto;
-  background: #fff url(../images/header.png);
+  background-image: url(/images/headerrr.png);
+  background-color: #fff;
+  background-repeat: no-repeat;
   border-bottom-left-radius: 80px;
   position: relative;
 }
