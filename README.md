@@ -141,7 +141,7 @@ I would like to thank Thanks a lot Microverse student and platform
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT.md](./LICENSE) licensed.
+This project is https://github.com/jovasal/Portfolio-Microverse/blob/c49fdf01753ec8d113809e480f90ee10662b55c6/MIT.md licensed.
 
 _NOTE: Copyright 2023, [JOHN ALONSO VASQUEZ SALCEDO]
 
