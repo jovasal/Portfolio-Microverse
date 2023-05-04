@@ -3,7 +3,7 @@
 body {
   display: flex;
   flex-direction: column;
-  background-color: #e5e5e5;
+  background-color: #cac4c4;
   font-family: "Poppins", sans-serif;
   margin: 0;
   overflow-x: hidden;
@@ -101,7 +101,7 @@ body {
   width: 375px;
   height: 700px;
   margin: 0 auto;
-  background-image: url(/images/headerrr.png);
+  background-image: url(/images/header-shapes.png);
   background-color: #fff;
   background-repeat: no-repeat;
   border-bottom-left-radius: 80px;
