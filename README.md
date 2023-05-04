@@ -92,7 +92,7 @@ You can usu by HTML terminal and check it Linters.
 
 ### Run tests
 
-You can user Linters installed under Pull Request. Actually, it is runin well. Please, Don no chanche it.
+You can user Linters installed under Pull Request. Actually, it is runin well. Please, Do not chanche it.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
