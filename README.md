@@ -78,21 +78,21 @@ Example commands:
 
 
   cd my-folder
-  git clone git@github.com:https://github.com/jovasal/Portfolio-Microverse.git
+  git clone git@github.com:https://github.com/jovasal/Portfolio-Microverse.git.
 
 
 ### Install
 
-Is not necesary to install
+Is not necesary to install.
 
 ### Usage
 
-you can usu by HTML terminal and check it Linters
+You can usu by HTML terminal and check it Linters.
 
 
 ### Run tests
 
-you can usu by HTML terminal and check it Linters
+You can user Linters installed under Pull Request. Actually, it is runin well. Please, Don no chanche it.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
