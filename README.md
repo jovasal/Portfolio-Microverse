@@ -141,7 +141,7 @@ I would like to thank Thanks a lot Microverse student and platform
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT.md](./LICENSE) licensed.
 
 _NOTE: Copyright 2023, [JOHN ALONSO VASQUEZ SALCEDO]
 
